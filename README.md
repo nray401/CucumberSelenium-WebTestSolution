@@ -4,7 +4,7 @@ CucumberSelenium-WebTestSolution
 
 # 2.Web test solution that automates below simple test scenario, composed as BDD Scenarios.
 
- Given I add four diffrent prodcuts to my wishlist
+ Given I add four diffrent prodcuts to my wishlist \n
  When I view my wishlist table
  Then I find total four selected items in my wishlist 
  When I search for lowest price product
