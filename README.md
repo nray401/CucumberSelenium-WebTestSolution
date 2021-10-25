@@ -3,7 +3,7 @@ CucumberSelenium-WebTestSolution
 
 # 1.Codilty-BDDWebTestSolution
 
-# 2.Web test solution that automates below simple test scenario, composed as BDD Scenarios.
+# 2.Sample Web test solution that automates below simple test scenario, composed as BDD Scenarios.
 
  Given I add four diffrent prodcuts to my wishlist
 	
