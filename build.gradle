@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'org.neeraj'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    compile group: 'io.cucumber', name: 'cucumber-java', version: '5.6.0'
+
+    testCompile group: 'io.cucumber', name: 'cucumber-junit', version: '5.6.0'
+    testCompile group: 'org.hamcrest', name: 'hamcrest', version: '2.2'
+
+}
