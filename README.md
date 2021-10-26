@@ -3,7 +3,7 @@ CucumberSelenium-WebTestSolution
 
 # 1.Codilty-BDDWebTestSolution
 
-** Used technology below :
+**Used technology below :
   a) Cucumber JVm
   b) Selenium 
 
