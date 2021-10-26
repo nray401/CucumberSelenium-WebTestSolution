@@ -3,6 +3,10 @@ CucumberSelenium-WebTestSolution
 
 # 1.Codilty-BDDWebTestSolution
 
+** Used technology below :
+  a) Cucumber JVm
+  b) Selenium 
+
 # 2.Sample Web test solution that automates below simple test scenario, composed as BDD Scenarios.
 
  Given I add four diffrent prodcuts to my wishlist
